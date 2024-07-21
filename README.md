@@ -1,1 +1,1 @@
-Read wo jiu wan le!
+The project of LongXin!
