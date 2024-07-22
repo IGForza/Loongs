@@ -3,6 +3,7 @@ module ALU(
 	input [32 -1:0] in1      , 
 	input [32 -1:0] in2      ,
 	input [5 -1:0] ALUCtl    ,
+	input [32-1:0] PC	 ,
 	input Sign               ,
 	output reg [32 -1:0] out 
 );
